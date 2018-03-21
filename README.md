@@ -1,2 +1,3 @@
 # chrisly-bear.github.io
-GitHub Pages user site.
+
+* [Sunrise Usage](https://chrisly-bear.github.io/sunrise-usage/)
